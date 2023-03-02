@@ -10,6 +10,8 @@ require('components/layout.php')
             print "Hi! ".$test;
         ?>"
 */
+
+//Сложная задача
 ?>
 
         <h1>Это первое задание</h1>
