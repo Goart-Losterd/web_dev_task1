@@ -1,0 +1,25 @@
+html, body {
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+main{
+    flex: 1 0 auto;
+}
+
+.reg-div{
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 50%;
+}
+
+footer, nav{
+    border-top: solid 1px red;
+}
