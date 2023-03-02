@@ -2,14 +2,14 @@
 
 require('components/layout.php')
 
-$tittle = "Less one"
+//$tittle = "Less one"
 
-$ind_send = "<?php
+/*$ind_send = "<?php
             print "это вывел php!";
             $test = $_POST['test'];
             print "Hi! ".$test;
         ?>"
-
+*/
 ?>
 
         <h1>Это первое задание</h1>
